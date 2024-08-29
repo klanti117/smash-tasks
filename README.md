@@ -1,1 +1,4 @@
-# smash-tasks
+# Architecture
+
+##API directory
+##Frontend directory
