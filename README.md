@@ -1,4 +1,5 @@
 # Architecture
 
-##API directory
-##Frontend directory
+## API directory
+
+## Frontend directory
